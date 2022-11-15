@@ -1,0 +1,14 @@
+:root {
+	--primary: #f5f5f5;
+	--secondary: #282828;
+}
+
+.darkMode {
+	color: var(--primary);
+	background: var(--secondary);
+}
+
+.lightMode {
+	color: var(--secondary);
+	background: var(--primary);
+}
